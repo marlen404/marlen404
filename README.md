@@ -1,6 +1,6 @@
 - Hey there, I am @marlen404
-- My Interests 💭
-  - Frontend 💻
-  - Data Mining 📊
-  - LLMs 💬
-  - Computer Graphics 🐇🫖
+- My Interests
+  - Frontend
+  - Data Mining
+  - LLMs
+  - Computer Graphics
