@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello c:
 
-<!--
-**marlen404/marlen404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+- Data Mining & Analysis
+- Data Bases, Data Warehousing
+- Maths
+- Computer Graphics
 
-Here are some ideas to get you started:
+### Tech Stack
+- Favorite Language: C
+- Other Languages:
+  - basic: Java
+  - some knowledge: C++, Python, Haskell, HTML/CSS
+- Tools & Frameworks: Vue.js, React, some pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Goals
+- Improving problem-solving skills on LeetCode
+- Learning more about Data Analytics
+- Playing some more piano pieces
