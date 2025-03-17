@@ -11,9 +11,11 @@
 - Other Languages:
   - basic: Java
   - some knowledge: C++, Python, Haskell, HTML/CSS
+  - currently learning: R
 - Tools & Frameworks: Vue.js, React, some pandas
 
 ### Current Goals
 - Improving problem-solving skills on LeetCode
+- Teaching myself R
 - Learning more about Data Analytics
 - Playing some more piano pieces
